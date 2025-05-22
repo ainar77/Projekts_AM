@@ -1,4 +1,3 @@
-"""
 Weblapu Automātiskās Atvēršanas Skripts
 =======================================
 
@@ -6,7 +5,7 @@ Weblapu Automātiskās Atvēršanas Skripts
 izmantojot Selenium WebDriver. Papildus tiek veiktas automātiskas darbības, piemēram, pogu klikšķināšana
 vai meklēšanas lauka aizpildīšana.
 
-Autor: Ainārs Mazbušs
+Autors: Ainārs Mazbušs
 Valoda: Python 
 Atkarības: selenium, keyboard
 
